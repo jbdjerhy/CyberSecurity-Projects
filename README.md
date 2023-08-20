@@ -17,7 +17,7 @@
 - [<b>ELK Stack Installation and Configuration for Log Analysis</b>](https://github.com/jbdjerhy/ELK_Stack/tree/main)
   - Description: Set up and configure an ELK stack (Elasticsearch, Logstash, and Kibana) on an Ubuntu server for log analysis and monitoring purposes.
   
-- <b>Kitchen/chef Automation and provisioning project</b>
+- [<b>Kitchen/chef Automation and provisioning project</b>](https://github.com/jbdjerhy/Chef_kitchen_automation/tree/main)
   - Description: Focus on scalability, resource buffer, automation, and cluster setup.
 
 [LinkedIn Profile](https://www.linkedin.com/in/djerhyjnbaptiste/)
