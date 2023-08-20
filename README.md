@@ -14,7 +14,7 @@
 - <b>Virtualization upgrade, AD, load balancing</b>
   - Description: Upgrade existing infrastructure to a virtualized environment for improved scalability, performance, and security.
   
-- <b>ELK Stack Installation and Configuration for Log Analysis</b>
+- [<b>ELK Stack Installation and Configuration for Log Analysis</b>](https://github.com/jbdjerhy/ELK_Stack/tree/main)
   - Description: Set up and configure an ELK stack (Elasticsearch, Logstash, and Kibana) on an Ubuntu server for log analysis and monitoring purposes.
   
 - <b>Kitchen/chef Automation and provisioning project</b>
