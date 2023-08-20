@@ -3,7 +3,7 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- <b>Setting up Snort IDS on Ubuntu</b>
+- [<b>Setting up Snort IDS on Ubuntu</b>](https://github.com/jbdjerhy/Snort)
   - Description: Set up and configure Snort, an intrusion detection system, on an Ubuntu instance to monitor network traffic for security threats.
   
 - <b>Vulnerability Assessment and Exploitation with Nessus</b>
