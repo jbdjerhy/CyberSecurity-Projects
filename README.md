@@ -3,11 +3,13 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- [<b>Setting up Snort IDS on Ubuntu</b>](https://github.com/jbdjerhy/Snort)
-  - Description: Set up and configure Snort, an intrusion detection system, on an Ubuntu instance to monitor network traffic for security threats.
+
   
 - <b>Vulnerability Assessment and Exploitation with Nessus</b>
   - Description: Set up Nessus on Linux virtual machines, conduct vulnerability scans on target systems, and explore vulnerabilities in a controlled lab environment.
+ 
+- [<b>Setting up Snort IDS on Ubuntu</b>](https://github.com/jbdjerhy/Snort)
+  - Description: Set up and configure Snort, an intrusion detection system, on an Ubuntu instance to monitor network traffic for security threats.
   
 - <b>Virtualization upgrade, AD, load balancing</b>
   - Description: Upgrade existing infrastructure to a virtualized environment for improved scalability, performance, and security.
