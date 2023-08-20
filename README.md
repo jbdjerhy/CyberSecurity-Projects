@@ -11,7 +11,7 @@
 - [<b>Setting up Snort IDS on Ubuntu</b>](https://github.com/jbdjerhy/Snort)
   - Description: Set up and configure Snort, an intrusion detection system, on an Ubuntu instance to monitor network traffic for security threats.
   
-- <b>Virtualization upgrade, AD, load balancing</b>
+- [<b>Virtualization upgrade, AD, load balancing</b>](https://github.com/jbdjerhy/Virtualization_Load_balancing_scalability/tree/main)
   - Description: Upgrade existing infrastructure to a virtualized environment for improved scalability, performance, and security.
   
 - [<b>ELK Stack Installation and Configuration for Log Analysis</b>](https://github.com/jbdjerhy/ELK_Stack/tree/main)
