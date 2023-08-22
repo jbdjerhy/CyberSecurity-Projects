@@ -19,5 +19,8 @@
   
 - [<b>Kitchen/chef Automation and provisioning project</b>](https://github.com/jbdjerhy/Chef_kitchen_automation/tree/main)
   - Description: Focus on scalability, resource buffer, automation, and cluster setup.
+    
+- [<b>Windows Server 19 with Active Directory, DHCP, NAT/RAS</b>](https://github.com/jbdjerhy/Active-Directory_WinServer/tree/main)
+  - Description: The objective of this IT project is to configure a Windows Server 2019 environment with Active Directory integration, NAT/RAS, DHCP services, and establish internet connectivity while ensuring network security.
 
 [LinkedIn Profile](https://www.linkedin.com/in/djerhyjnbaptiste/)
