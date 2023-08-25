@@ -21,7 +21,7 @@
 - [<b>Windows Server 19 with Active Directory, DHCP, NAT/RAS</b>](https://github.com/jbdjerhy/Active-Directory_WinServer/tree/main)
   - Description: The objective of this IT project is to configure a Windows Server 2019 environment with Active Directory integration, NAT/RAS, DHCP services, and establish internet connectivity while ensuring network security.
 
-- [<b>Docker and Kubernetes Setup for Development Environment</b>](https://github.com/jbdjerhy/Chef_kitchen_automation/tree/main)
+- [<b>Docker and Kubernetes Setup for Development Environment</b>](https://github.com/jbdjerhy/Docker_Kubernetes)
   - Description: This IT project involves setting up Docker and Kubernetes  The goal is to create an isolated development environment using containers and Kubernetes to streamline the development and testing processes.
 
 [LinkedIn Profile](https://www.linkedin.com/in/djerhyjnbaptiste/)
