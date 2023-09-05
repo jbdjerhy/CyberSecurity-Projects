@@ -23,5 +23,7 @@
 
 - [<b>Docker and Kubernetes Setup for Development Environment</b>](https://github.com/jbdjerhy/Docker_Kubernetes)
   - Description: This IT project involves setting up Docker and Kubernetes  The goal is to create an isolated development environment using containers and Kubernetes to streamline the development and testing processes.
+ 
+  - This IT project aims to enhance the existing IT infrastructure by implementing various improvements and configurations across multiple areas, including virtualization, system monitoring, iSCSI, NTP, LDAP, network services, DNS, web services, NFS, and SMB services. The project encompasses several phases, each focused on a specific aspect of infrastructure enhancement.
 
 [LinkedIn Profile](https://www.linkedin.com/in/djerhyjnbaptiste/)
