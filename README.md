@@ -6,8 +6,11 @@
 - [<b>Kitchen/chef Automation and provisioning project</b>](https://github.com/jbdjerhy/Chef_kitchen_automation/tree/main)
   - Description: Focus on scalability, resource buffer, automation, and cluster setup.
 
- - [<b>Red Hat Enterprise Services Configuration : NTP, LDAP, DNS, Apache Web Services, NFS, SMB, iSCSI and other network enhancements<b>](https://github.com/jbdjerhy/RedHat_Advanced_Services_Configuration)
-  - This IT project aims to enhance the existing IT infrastructure by implementing various improvements and configurations across multiple areas, including virtualization, system monitoring, iSCSI, NTP, LDAP, network services, DNS, web services, NFS, and SMB services. The project encompasses several phases, each focused on a specific aspect of infrastructure enhancement.
+- [<b>Ansible Automation Project</b>](https://github.com/jbdjerhy/Ansible)
+  - The Ansible automation project involves configuring two Alma Linux virtual machines, installing Ansible, and demonstrating various automation tasks, including software installation, user management, and system configuration.
+
+ - [<b>Red Hat Enterprise Services Configuration : NTP, LDAP, DNS, Apache Web Services, NFS, SMB, iSCSI and other network enhancements<b>](https://github.com/jbdjerhy/RedHat_Advanced_Services_Configuration)  
+   - This IT project aims to enhance the existing IT infrastructure by implementing various improvements and configurations across multiple areas, including virtualization, system monitoring, iSCSI, NTP, LDAP, network services, DNS, web services, NFS, and SMB services. The project encompasses several phases, each focused on a specific aspect of infrastructure enhancement.
 
 - [<b>Windows Server 19 with Active Directory, DHCP, NAT/RAS</b>](https://github.com/jbdjerhy/Active-Directory_WinServer/tree/main)
   - Description: The objective of this IT project is to configure a Windows Server 2019 environment with Active Directory integration, NAT/RAS, DHCP services, and establish internet connectivity while ensuring network security.
@@ -27,6 +30,7 @@
 
 - [<b>Docker and Kubernetes Setup for Development Environment</b>](https://github.com/jbdjerhy/Docker_Kubernetes)
   - Description: This IT project involves setting up Docker and Kubernetes  The goal is to create an isolated development environment using containers and Kubernetes to streamline the development and testing processes.
+
 
 
 [LinkedIn Profile](https://www.linkedin.com/in/djerhyjnbaptiste/)
